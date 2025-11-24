@@ -116,4 +116,11 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 <img width="710" height="737" alt="image" src="https://github.com/user-attachments/assets/b6ace794-3b94-4612-ac15-d7f7592fef8d" />
 
+**Conclusion:**
+By using detailed and well-structured prompts, text-to-image generation models can closely reproduce an existing image.
+The quality and accuracy of the generated image depend on the precision and depth of the prompt.
+This experiment highlights the importance of prompt refinement and iteration when working with AI image generation tools.
+With practice, such models can be used effectively for creative, academic, and professional visual tasks.
+
+
 
